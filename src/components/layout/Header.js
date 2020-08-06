@@ -8,7 +8,7 @@ const Header = ({ branding }) => {
      navbar-dark bg-danger mb-3 py-0"
     >
       <div className="container">
-        <a href="contactmanager/#/" className="navbar-brand">
+        <a href="/contactmanager/#/" className="navbar-brand">
           {branding}
         </a>
         <div>
