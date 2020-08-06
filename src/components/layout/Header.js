@@ -8,7 +8,7 @@ const Header = ({ branding }) => {
      navbar-dark bg-danger mb-3 py-0"
     >
       <div className="container">
-        <Link to="/" className="navbar-brand">
+        <Link to="/#/" className="navbar-brand">
           {branding}
         </Link>
         <div>
