@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <center>
-        <h1 className="display-4">About Contact Manager</h1>
+        <h1 className="display-4">Developed BY GowthamUppuluri</h1>
         <img src={Admin} />
         <p className="lead">Simple App to manage contacts</p>
         <p className="text-secondary">Version 1.0.0</p>
