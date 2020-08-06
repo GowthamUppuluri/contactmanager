@@ -8,9 +8,9 @@ const Header = ({ branding }) => {
      navbar-dark bg-danger mb-3 py-0"
     >
       <div className="container">
-        <a href="/" className="navbar-brand">
+        <Link href="/" className="navbar-brand">
           {branding}
-        </a>
+        </Link>
         <div>
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
